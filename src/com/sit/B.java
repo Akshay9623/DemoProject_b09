@@ -13,4 +13,8 @@ public void m1()
 {
 	System.out.println("m3-----B");
 }
+		public void m4()
+{
+	System.out.println("m3-----B");
+}
 }
